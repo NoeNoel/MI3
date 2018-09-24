@@ -1,6 +1,6 @@
 # Logboek Mi3 - Noë Noël
-## Week 1 - ?? uur
-* VB1 : ?? uur.
+## Week 1 - uur
+* Les 1 : 2 uur.
 * VB2 : ?? uur.
 
 ## Week 2 - ? uur
