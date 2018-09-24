@@ -1,5 +1,5 @@
 # Logboek Mi3 - Noë Noël
-## Week 1 - uur
+## Week 1 - 2 uur
 * Les 1 : 2 uur.
 * VB2 : ?? uur.
 
