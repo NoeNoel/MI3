@@ -3,8 +3,8 @@
 * Les 1 : 2 uur.
 * VB2 : ?? uur.
 
-## Week 2 - ? uur
-* VB1 : ?? uur.
+## Week 2 - 2 uur
+* Les 2 : 2 uur.
 * VB2 : ?? uur.
 
 
