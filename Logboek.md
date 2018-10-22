@@ -9,4 +9,10 @@
 ## Week 3 - 2 uur
 * Les 3 : 2 uur.
 
+## Week 4 - 2 uur
+* Les 4 : 2 uur. (ziek in te halen)
+
+## Week 5 - 2 uur
+* Les 5 : 2 uur.
+
 # Totale duur : ?? uur
